@@ -46,7 +46,7 @@ Platform: UNKNOWN
 Classifier: Development Status :: 3 - Alpha
 Classifier: Topic :: Home Automation
 Classifier: Intended Audience :: Developers
-Classifier: License :: OSI Approved :: GPL3 License
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
 Classifier: Natural Language :: English
 Classifier: Programming Language :: Python :: 3
 Classifier: Programming Language :: Python :: 3.3
