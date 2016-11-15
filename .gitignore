@@ -1,0 +1,10 @@
+# Python compiled files.
+*.pyc
+
+PyHarmony.egg-info
+build/
+dist/
+pyharmony.egg-info
+
+PyCharms
+.idea/
