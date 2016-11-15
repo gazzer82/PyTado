@@ -1,3 +1,4 @@
 argparse
-requests
-sleekxmpp
+cookielib
+urllib
+urllib2
