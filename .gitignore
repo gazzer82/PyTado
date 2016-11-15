@@ -5,10 +5,10 @@
 .project
 .pydevproject
 
-PyHarmony.egg-info
+PyTado.egg-info
 build/
 dist/
-pyharmony.egg-info
+pytado.egg-info
 
 PyCharms
 .idea/
