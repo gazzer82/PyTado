@@ -43,7 +43,7 @@ Description: PyTado -- Pythonize your central heating
         
 Keywords: pytado
 Platform: UNKNOWN
-Classifier: Development Status :: 3 - Alpha
+Classifier: Development Status :: 1 - Beta
 Classifier: Topic :: Home Automation
 Classifier: Intended Audience :: Developers
 Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
