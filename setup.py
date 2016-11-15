@@ -35,7 +35,7 @@ setup(
     zip_safe=False,
     keywords='pytado',
     classifiers=[
-        'Development Status :: 1 - Beta',
+        'Development Status :: 3 - Alpha',
         'Topic :: Home Automation',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: GPL3 License',
