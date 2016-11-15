@@ -20,13 +20,13 @@ requirements = [x.strip() for x in open(here('requirements.txt')).readlines()]
 
 setup(
     name='pytado',
-    version='1.0.1',
+    version='1.0.2',
     description='Python library for communicating with the Tado Smart Thermostat API.',
     long_description=readme,
     author='Gareth Jeanne',
     author_email='contact@garethjeanne.co.uk',
     url='https://github.com/gazzer82/pytado',
-    download_url = 'https://github.com/gazzr82/pytado/tarball/1.0.1',
+    download_url = 'https://github.com/gazzr82/pytado/tarball/1.0.2',
     packages=['pytado'],
     package_dir={'pytado': 'pytado'},
     include_package_data=True,
