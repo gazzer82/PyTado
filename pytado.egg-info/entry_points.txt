@@ -1,3 +1,0 @@
-[console_scripts]
-pytado = pytado.__main__:main
-
