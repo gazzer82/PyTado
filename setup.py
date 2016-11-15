@@ -38,7 +38,7 @@ setup(
         'Development Status :: 3 - Alpha',
         'Topic :: Home Automation',
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',
+        'License :: OSI Approved :: GPL3 License',
         'Natural Language :: English',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.3',
